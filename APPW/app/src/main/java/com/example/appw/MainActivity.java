@@ -167,7 +167,7 @@ private String URL = "https://revistas.uteq.edu.ec/ws/issues.php?j_id=1";
             MultiLineText.setText("");
             Toast.makeText(sp.getContext(), "Seleccionar una librería", Toast.LENGTH_SHORT).show();
         }
-        //Toast.makeText(spOption.getContext(), "Selección: " + spOption.getSelectedItem(), Toast.LENGTH_LONG).show();
+
     }
 
 }
