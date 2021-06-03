@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="opcionesWS">
+        <item>Seleccionar..</item>
+        <item>Volley</item>
+        <item>Retrofit</item>
+    </string-array>
+</resources>
